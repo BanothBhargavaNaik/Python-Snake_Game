@@ -1,3 +1,8 @@
+
+
+![Designer (11)](https://github.com/BanothBhargavaNaik/Python-Snake_Game/assets/52111190/1222e297-d5d4-4bf4-98d3-862f1cc90f5b)
+
+
 # Snake Game Documentation
 
 This document provides a comprehensive guide to the Snake game written in Python using Turtle graphics.
