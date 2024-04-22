@@ -1,3 +1,8 @@
+
+
+![Designer (11)](https://github.com/BanothBhargavaNaik/Python-Snake_Game/assets/52111190/1222e297-d5d4-4bf4-98d3-862f1cc90f5b)
+
+
 # Snake Game Documentation
 
 This document provides a comprehensive guide to the Snake game written in Python using Turtle graphics.
@@ -12,12 +17,6 @@ This requirements.txt file specifies the Python version required for your game a
 
 The Snake game is a classic arcade game where you control a snake that grows longer by eating food. Avoid hitting the walls or your own body, or the game ends. Use the arrow keys to change the direction of the snake.
 
-## Code Structure
-
-The code is organized into several modules:
-
-- `snake_game.py`: Main script containing the game loop, initialization, and helper functions.
-- (Optional) `config.py`: Configuration file for storing constants and settings (e.g., screen size, colors, game speed).
 
 ## Game Variables (`snake_game.py`)
 
